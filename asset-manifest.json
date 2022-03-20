@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/kavling-jonggol/static/css/main.a88ff1de.css",
-    "main.js": "/kavling-jonggol/static/js/main.ddcda924.js",
+    "main.css": "/kavling-jonggol/static/css/main.6a10baa1.css",
+    "main.js": "/kavling-jonggol/static/js/main.608893e1.js",
     "static/js/787.9b1a68c1.chunk.js": "/kavling-jonggol/static/js/787.9b1a68c1.chunk.js",
     "static/media/vidio-promotion.MP4": "/kavling-jonggol/static/media/vidio-promotion.e6724c2191bb9ac6ed44.MP4",
-    "static/media/price-list.jpeg": "/kavling-jonggol/static/media/price-list.3108ff8938641be73e40.jpeg",
     "static/media/banner-2.jpeg": "/kavling-jonggol/static/media/banner-2.37305582bfc6fc688c57.jpeg",
     "static/media/banner.png": "/kavling-jonggol/static/media/banner.c1e4494bab9c0c4fcf89.png",
     "static/media/galery-5.jpeg": "/kavling-jonggol/static/media/galery-5.83a16954d2ee85a43b50.jpeg",
@@ -16,12 +15,12 @@
     "static/media/slick.ttf": "/kavling-jonggol/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/kavling-jonggol/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/kavling-jonggol/index.html",
-    "main.a88ff1de.css.map": "/kavling-jonggol/static/css/main.a88ff1de.css.map",
-    "main.ddcda924.js.map": "/kavling-jonggol/static/js/main.ddcda924.js.map",
+    "main.6a10baa1.css.map": "/kavling-jonggol/static/css/main.6a10baa1.css.map",
+    "main.608893e1.js.map": "/kavling-jonggol/static/js/main.608893e1.js.map",
     "787.9b1a68c1.chunk.js.map": "/kavling-jonggol/static/js/787.9b1a68c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a88ff1de.css",
-    "static/js/main.ddcda924.js"
+    "static/css/main.6a10baa1.css",
+    "static/js/main.608893e1.js"
   ]
 }
